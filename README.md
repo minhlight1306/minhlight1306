@@ -18,7 +18,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 ## Personal Information
 - **Name:** Lê Quang Minh
 - **Phone Number:** 0976423803
-- **Email:** minhlequang766@gmail.com
+- **Email:** minh.lelight@hcmut.edu.vn
 
 ## Career Objective
 I am a student majoring in Internet of Things (IoT) at HCM City University of Technology, seeking an internship opportunity in the IoT field. My goal is to apply my knowledge in real-world scenarios, learn about new technologies, and develop my skills in a professional environment.
