@@ -1,4 +1,4 @@
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhlight1306&show_icons=true&theme=radical)
+[![Minh's GitHub stats](https://github-stats-extended.vercel.app/api?username=minhlight1306&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 <div align="center">
 VIETNAM NATIONAL UNIVERSITY, HO CHI MINH CITY
@@ -8,8 +8,8 @@ UNIVERSITY OF TECHNOLOGY
 FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 <br />
 <br />
+<img width="200" height="180" alt="Logo Trường" src="https://github.com/user-attachments/assets/cc638b30-fea1-4451-884a-917b179d575e" />
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HCMUT_official_logo.png/238px-HCMUT_official_logo.png)](https://www.hcmut.edu.vn/vi)
 <br />
     <h1>Hi 👋, I'm Minh</h1>
     <h3>I am a student majoring in Internet of Things at HCM City University of Technology</h3>
@@ -39,5 +39,5 @@ I am a student majoring in Internet of Things (IoT) at HCM City University of Te
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img alt="C_Programming_Language svg" src="https://github.com/user-attachments/assets/87b8796c-8861-46ed-a442-97d72e7fef0d" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ## Thank you for reviewing my profile!
