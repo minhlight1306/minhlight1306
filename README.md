@@ -26,8 +26,9 @@ I am a student majoring in Internet of Things (IoT) at HCM City University of Te
 ## Certification
 - 📝 C++ Programming. [Here](https://drive.google.com/file/d/1f9sEbT8CYGDGuF-7Uzu9eLDX94tODZPw/view?usp=drive_link)
 ## Projects
-- 🔭 I have completed an IoT project: [Smart Home System](https://github.com/minhlight1306/ESP32)
-- 👯 I have completed an STM32 Programming project: [Traffic Light](https://github.com/minhlight1306/ESP32)
+- 🔭 I have completed an IoT project: [IoT Microclimate Monitoring System](https://github.com/PhamGiaLuong/CO3054-IoTMicroclimateMonitoringSystem)
+- 👯 I have completed an IoT project: [Cold Chain Monitoring System](https://github.com/PhamGiaLuong/CO3037-ColdChainMonitoringSystem)
+- 🔭 I have completed a Capstone project: [Automotive HVAC Control Module (AUTOSAR)](https://drive.google.com/drive/folders/1FO8lLlWyERPuNzE55EQAUkawqK7972Xg?usp=drive_link)
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
